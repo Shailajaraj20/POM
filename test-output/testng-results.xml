@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14725" started-at="2019-05-26T04:30:46Z" finished-at="2019-05-26T04:31:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14725" started-at="2019-05-26T04:30:46Z" finished-at="2019-05-26T04:31:01Z">
+      <class name="controller.TestSuite_01">
+        <test-method status="PASS" signature="envSetup()[pri:0, instance:controller.TestSuite_01@2a266d09]" name="envSetup" is-config="true" duration-ms="3449" started-at="2019-05-26T10:00:46Z" finished-at="2019-05-26T10:00:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- envSetup -->
+        <test-method status="PASS" signature="verifyLogin()[pri:0, instance:controller.TestSuite_01@2a266d09]" name="verifyLogin" duration-ms="11095" started-at="2019-05-26T10:00:50Z" description="Verification of Login" finished-at="2019-05-26T10:01:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+      </class> <!-- controller.TestSuite_01 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
